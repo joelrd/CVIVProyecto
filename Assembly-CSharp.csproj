@@ -57,9 +57,11 @@
      <Compile Include="Assets\Scripts\CambiarEscenaAlContacto.cs" />
      <Compile Include="Assets\Scripts\ColorKey.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\GuiHelper.cs" />
      <Compile Include="Assets\Scripts\Obstaculo.cs" />
      <Compile Include="Assets\Scripts\PerseguirCamara.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Player\Player_Rotator.cs" />
      <Compile Include="Assets\Scripts\PlayerData.cs" />
      <Compile Include="Assets\Scripts\Sound_Handler.cs" />
      <Compile Include="Assets\Scripts\ZonaReinicio.cs" />

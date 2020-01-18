@@ -2,11 +2,11 @@
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
-    
+
     public static GameManager instance;
-    
+
     private int _score;
-    
+
     private string _currentDoorId;
 
     private void Awake( ) {
@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour {
         _currentDoorId = doorId;
     }
 
-    public string GetDoor( ) { 
+    public string GetDoor( ) {
         return _currentDoorId;
     }
-} 
+}
