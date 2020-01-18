@@ -58,10 +58,12 @@
      <Compile Include="Assets\Scripts\ColorKey.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Obstaculo.cs" />
+     <Compile Include="Assets\Scripts\PerseguirCamara.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerData.cs" />
      <Compile Include="Assets\Scripts\Sound_Handler.cs" />
      <Compile Include="Assets\Scripts\ZonaReinicio.cs" />
+     <None Include="Assets\Kenney Assets\Castle Kit\License.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/henrydouglas/HenryRojas-Ejercicio1-3d/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
