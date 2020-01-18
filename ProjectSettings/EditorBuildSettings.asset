@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/portada.unity
+    guid: 547f824163cd14f699ba83a3ccf66662
+  - enabled: 1
     path: Assets/Scenes/08-EscenarioJuego-01-Bosque-A.unity
     guid: 6f543ffbc8b24493db968bcb01d2ef1f
   - enabled: 1
@@ -47,4 +50,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/08-EscenarioJuego-14-Final.unity
     guid: 6e76a08d55a214d91bf419805dd7f162
+  - enabled: 1
+    path: Assets/Scenes/ganar.unity
+    guid: af128d55ca52b4c54bb0019f80a013a2
+  - enabled: 1
+    path: Assets/Scenes/perder.unity
+    guid: aae340c3226bd4f39a6152cdd65f8e3d
   m_configObjects: {}
