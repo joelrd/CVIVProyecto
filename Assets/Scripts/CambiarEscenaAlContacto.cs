@@ -4,13 +4,13 @@ using UnityEngine;
 public class CambiarEscenaAlContacto : MonoBehaviour
 {
     public string SiguienteEscena;
-    
+
     public string doorId;
-    
+
     public Player objetoPlayer;
-    
+
     public Transform posicionObjetivo;
-    
+
     private void Start()
     {
         if(GameManager.instance.GetDoor() == doorId)
@@ -26,4 +26,4 @@ public class CambiarEscenaAlContacto : MonoBehaviour
             GameManager.instance.ChangeScenes(SiguienteEscena);
         }
     }
-} 
+}
