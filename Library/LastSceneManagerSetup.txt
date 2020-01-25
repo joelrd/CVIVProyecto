@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/03-room.unity
+- path: Assets/Scenes/08-EscenarioJuego-01-Bosque-A.unity
   isLoaded: 1
   isActive: 1
